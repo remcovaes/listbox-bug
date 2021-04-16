@@ -8,8 +8,8 @@
 - Click clear
 
 Actual:
-- Notice 1 option in the map version
-- Notice 2 options in the repeat version
+- 1 option in the map version
+- 2 options in the repeat version
 - The workaround is working fine
 
 Expected:
